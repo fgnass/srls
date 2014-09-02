@@ -1,0 +1,20 @@
+{
+  "name": "srls",
+  "version": "1.0.0",
+  "description": "simple synchronous recursive ls",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "ls",
+    "ls-r",
+    "dir",
+    "tree"
+  ],
+  "author": "Felix Gnass <fgnass@gmail.com>",
+  "license": "MIT"
+}
