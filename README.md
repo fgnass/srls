@@ -26,7 +26,8 @@ Given the following directory structure in `/tmp/test`:
 |-- baz
 |   `-- boo.txt
 |-- foo.txt
-`-- z.txt```
+`-- z.txt
+```
 
 … the code above will yield the following result:
 ```
@@ -38,7 +39,6 @@ Given the following directory structure in `/tmp/test`:
   "/tmp/test/baz/boo.txt"
 ]
 ```
-
 
 ### License
 MIT

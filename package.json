@@ -2,19 +2,15 @@
   "name": "srls",
   "version": "1.0.0",
   "description": "simple synchronous recursive ls",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
+  "keywords": [ "ls", "ls-r", "dir", "tree" ],
+  "author": "Felix Gnass <fgnass@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgnass/srls.git"
   },
+  "main": "index.js",
   "scripts": {
     "test": "node test"
-  },
-  "keywords": [
-    "ls",
-    "ls-r",
-    "dir",
-    "tree"
-  ],
-  "author": "Felix Gnass <fgnass@gmail.com>",
-  "license": "MIT"
+  }
 }
